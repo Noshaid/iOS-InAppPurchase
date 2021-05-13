@@ -6,8 +6,8 @@
       "internalID" : "74A21335",
       "localizations" : [
         {
-          "description" : "",
-          "displayName" : "",
+          "description" : "Remove ads at all",
+          "displayName" : "Remove Ads",
           "locale" : "en_US"
         }
       ],
